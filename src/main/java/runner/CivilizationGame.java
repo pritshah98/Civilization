@@ -20,7 +20,7 @@ import javafx.scene.image.ImageView;
 import javafx.scene.image.Image;
 
 /**
- * Created by Tian-Yo Yang on 11/11/2016.
+ * Created by Prit Shah on 11/11/2016.
  */
 public class CivilizationGame extends Application {
     private Scene sceneStart, sceneSecondary;
